@@ -1,0 +1,6 @@
+C:\Users\aruna\Desktop\dot net practice\Shopping Chart\Shopping Chart\bin\Shopping Chart.dll.config
+C:\Users\aruna\Desktop\dot net practice\Shopping Chart\Shopping Chart\bin\Shopping Chart.dll
+C:\Users\aruna\Desktop\dot net practice\Shopping Chart\Shopping Chart\bin\Shopping Chart.pdb
+C:\Users\aruna\Desktop\dot net practice\Shopping Chart\Shopping Chart\obj\Debug\Shopping Chart.csprojResolveAssemblyReference.cache
+C:\Users\aruna\Desktop\dot net practice\Shopping Chart\Shopping Chart\obj\Debug\Shopping Chart.dll
+C:\Users\aruna\Desktop\dot net practice\Shopping Chart\Shopping Chart\obj\Debug\Shopping Chart.pdb
